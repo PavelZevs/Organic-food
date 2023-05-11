@@ -1,0 +1,261 @@
+@media (max-width: 1200px) {
+
+    .promo {
+        background-size: cover;
+        background-position: center;
+    }
+
+    .vgts h2 {
+        width: 47%;
+    }
+
+    .fruit_top {
+        margin-left: 520px;
+    }
+
+    .fruit_bot {
+        margin-left: 520px;
+    }
+
+    .Subscribe {
+        background-size: cover;
+    }
+
+}
+
+@media (max-width:1152px) {
+
+    .Field .container {
+        display: block;
+    }
+
+    .farm__text {
+        margin: auto;
+    }
+}
+
+@media (max-width: 1024px) {
+
+    .top__content {
+        margin-top: 20px;
+    }
+
+    .bucket {
+        margin-top: 40px;
+    }
+
+    .content_garden {
+        display: block;
+    }
+
+    .fruit {
+        background-image: none;
+    }
+
+    .fruit_top,
+    .fruit_bot {
+        margin-left: 30px;
+    }
+
+    .photo .container {
+        display: block;
+        padding: 20px 0;
+    }
+
+}
+
+
+@media (max-width: 800px) {
+
+    .promo h1 {
+        width: 80%;
+    }
+
+    .fruits,
+    .vgts {
+        background-size: 100%;
+        width: auto;
+    }
+
+    .bot__circle {
+        flex-wrap: wrap;
+    }
+
+    .top__view .top_left {
+        width: 330px;
+    }
+
+    .farm__text {
+        margin: 20px 20px;
+        width: 70%;
+    }
+
+    .farm__text p {
+        width: 60%;
+    }
+
+    .green_field img {
+        height: 704px;
+        width: 90%;
+    }
+
+    .footer__1 .container {
+        text-align: center;
+        display: block;
+    }
+
+    .footer__1 .foot_1 {
+        width: 100%;
+        border-right: 0;
+        text-align: center;
+        padding: 0 0;
+    }
+
+    .footer__1 .foot_2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer__1 .foot_2 p {
+        width: 100%;
+        padding: 45px 0px;
+    }
+
+    .footer__1 .foot_3 {
+        width: 100%;
+        border-left: 0;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .sub_container {
+        display: block;
+    }
+
+    .Subscribe .newslatter {
+        width: 100%;
+    }
+
+    .Subscribe .buttom input {
+        width: 241px;
+    }
+
+}
+
+
+@media (max-width: 600px) {
+    .top__nav ul {
+        display: block;
+    }
+
+    .top {
+        margin: 30px 20px;
+    }
+
+    .top__view {
+        display: block;
+    }
+
+    .fruits h2,
+    .vgts h2 {
+        width: 90%;
+    }
+
+    .green_field img {
+        width: 80%;
+    }
+
+    .farm__text {
+        margin: 30px 0;
+        width: 75%;
+    }
+
+    .comment img {
+        width: 15%;
+    }
+
+    /* .footer__1 .foot_2 p {
+
+        width: 70%;
+        padding: 45px 70px;
+
+    } */
+
+    .Subscribe {
+        width: 95%;
+        margin: 31px 0 0;
+    }
+
+    .sub_container {
+        padding: 70px 20px;
+    }
+
+}
+
+
+@media (max-width: 425px) {
+
+    .top {
+        margin: 30px 10px;
+    }
+
+    .promo h1 {
+        font-size: 50px;
+    }
+
+    .fruits h2,
+    .vgts h2 {
+        width: 80%;
+        font-size: 30px;
+        line-height: 29px;
+    }
+
+    .fruit .fruit_top h2 {
+        font-size: 35px;
+    }
+
+    .fruits,
+    .vgts {
+        height: 190px;
+    }
+
+    .Organic__food {
+        margin-top: 0;
+    }
+
+    .vgts h3,
+    .fruits h3 {
+        font-size: 26px;
+    }
+
+    .bot__products .images,
+    .bot_view .images {
+        width: 290px;
+    }
+
+    .catalog .price {
+        display: grid;
+        gap: 0;
+    }
+
+    .ph,
+    .ph img {
+        width: 300px;
+    }
+
+    .top__view .top_left {
+        width: 290px;
+    }
+
+
+    .Subscribe .buttom {
+        width: 70%;
+    }
+
+}
+
+@media (max-width: 325px) {
+    .top {
+        margin: 30px 5px;
+    }
+}
