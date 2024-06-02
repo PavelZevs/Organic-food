@@ -59,7 +59,7 @@ p {
   display: none;
 }
 
-/*--------------- Header---------- */
+/*---------------------------------- Header---------- */
 .header {
   padding: 24px 0;
 }
@@ -141,7 +141,7 @@ p {
   letter-spacing: 0.36px;
   line-height: 28px;
 }
-
+/* ----------------------------------------------Promo */
 .promo {
   background-image: url(../images/bg.png);
   background-repeat: no-repeat;
@@ -190,7 +190,7 @@ p {
   position: relative;
   overflow: hidden;
 }
-/* ----      ------Animation for button---------- */
+/* ---------------Animation for button---------- */
 .btn__primary:hover {
   box-shadow: 1px 1px 25px 10px #3fa426;
   background-color: #3fa426;
@@ -231,7 +231,7 @@ p {
   left: 170px;
   z-index: 0;
 }
-
+/*----------------------------------------------- Garden */
 .content_garden {
   max-width: 1380px;
   margin-top: 110px;
@@ -288,6 +288,8 @@ p {
   color: var(--text-blue);
 }
 
+/* -------------------------------------.Organic   food------------*/
+
 .Organic__food {
   width: 100%;
   background-color: #f9f8f8;
@@ -296,7 +298,6 @@ p {
 
 .fruit {
   background-image: url(../images/bg_fruits.png);
-  max-width: 1380px;
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center left;
@@ -512,10 +513,9 @@ p {
   line-height: 32px;
 }
 
-/* ---------------------------------cOSTUMER */
+/* ---------------------------------COSTUMER */
 .Costumer {
   margin-top: 119px;
-  /* height: 1170px; */
   background-image: url(../images/customer_bg.png);
   background-size: 100%;
 }
@@ -530,7 +530,6 @@ p {
 }
 
 .top_costumer {
-  /* height: 136px; */
   padding-top: 130px;
 }
 
@@ -540,11 +539,9 @@ h2 {
 }
 
 .comment {
-  /* height: 354px; */
   width: 100%;
   display: block;
   text-align: center;
-  /* margin-left: 146px; */
   margin-top: 46px;
   margin-bottom: 80px;
 }
@@ -557,7 +554,6 @@ h2 {
 
 .comment p {
   width: 82%;
-  /* height: 66px; */
   text-align: center;
   margin: auto;
   padding-top: 30px;
@@ -572,13 +568,11 @@ h2 {
   line-height: 34px;
   letter-spacing: 0.36px;
   color: var(--text-blue);
-  /* height: 34px; */
   width: 39%;
   padding-bottom: 20px;
 }
 
 .cons {
-  /* height: 27px; */
   width: 40%;
   font-family: "Open Sans";
   font-size: 14px;
@@ -598,8 +592,6 @@ h2 {
 
 .bot__circle {
   margin-top: 99px;
-  /* height: 280px; */
-  /* width: 1104px; */
   display: flex;
   justify-content: center;
   padding-bottom: 150px;
@@ -685,7 +677,6 @@ h2 {
 }
 
 .top_left {
-  /* height: 140px; */
   width: 682px;
 }
 
@@ -735,7 +726,6 @@ h2 {
 }
 
 .farm__text {
-  /* height: 623px; */
   width: 650px;
   background: #ffffff;
   border-radius: 30px 0px 0px 30px;
@@ -909,7 +899,6 @@ h2 {
 /* -----------------------------------Footer- */
 
 .footer__1 .container {
-  max-width: 1380px;
   display: flex;
   padding: 86px 0;
   justify-content: center;
