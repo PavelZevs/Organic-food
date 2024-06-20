@@ -32,7 +32,7 @@ animated-one-page-site/
 │
 ├── index.html         # Главный HTML-файл
 ├── css/
-│   ├── styles.css     # Основные стили сайта
+│   ├── style.css     # Основные стили сайта
 │   └── media.css    # адаптивность
 └── images # Папка с изображениями
     
