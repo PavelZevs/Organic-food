@@ -27,9 +27,6 @@
 
 ## Структура проекта
 
-```plaintext
-animated-one-page-site/
-│
 ├── index.html         # Главный HTML-файл
 ├── css/
 │   ├── style.css     # Основные стили сайта
