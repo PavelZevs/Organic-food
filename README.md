@@ -35,4 +35,4 @@ animated-one-page-site/
 │   ├── style.css     # Основные стили сайта
 │   └── media.css    # адаптивность
 └── images # Папка с изображениями
-    
+└──README.md   
